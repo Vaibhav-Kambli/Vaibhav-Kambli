@@ -1,4 +1,4 @@
-### Hi there ![](wave.gif) I'm Vaibhav 
+### Hi there ![](wave.gif =28x28) I'm Vaibhav 
 
 ### I am a Full Stack Developer!! 😊
 
