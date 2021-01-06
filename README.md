@@ -8,8 +8,14 @@
 
 ### Connect with me:
 
-[<img align="left" fill="#0077B5" alt="linkedin" width="32" src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" />][linkedin]
-<a href="mailto:vaibhavk2608@gmail.com"> <img src="https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67" align="left" alt="gmail" width="32">
+[<img align="left" alt="linkedin" width="32px" src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" />][linkedin]
+<a href="mailto:vaibhavk2608@gmail.com"> <img src="https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67" align="left" alt="gmail" width="32px">
+
+<br/>
+
+### Programming Languages & Tools I use:
+<img align="left" width="35px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
 
 <br/>
 
