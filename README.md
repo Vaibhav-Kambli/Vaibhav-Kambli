@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/Hi.gif" width="29"> I'm Vaibhav 
+### Hi there ![](wave.gif) I'm Vaibhav 
 
 ### I am a Full Stack Developer!! 😊
 
@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://github.com/sciencepal/sciencepal/raw/master/assets/Hi.gif" width="29">
 -->
