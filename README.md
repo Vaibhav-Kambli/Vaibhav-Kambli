@@ -1,4 +1,4 @@
-### Hi there <img src='https://github.com/Vaibhav-Kambli/Vaibhav-Kambli/blob/master/wave.gif' width="28"> I'm Vaibhav 
+### Hi there, I'm Vaibhav <img src='https://github.com/Vaibhav-Kambli/Vaibhav-Kambli/blob/master/wave.gif' width="28">
 
 ### I am a Full Stack Developer!! 😊
 
