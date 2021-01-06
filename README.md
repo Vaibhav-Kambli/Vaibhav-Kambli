@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Vaibhav 
+### Hi there <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/Hi.gif" width="29"> I'm Vaibhav 
 
 ### I am a Full Stack Developer!! 😊
 
 - 🌱 I’m currently learning and preparing for my cloud practitioner certification from AWS
-- 👯 This year I look forward to collaborate with other developers on some open source projects
+- 👯 This year I look forward to collaborate with other developers and contribute to open source projects
 
 
 ### Connect with me:
