@@ -9,12 +9,11 @@
 ### Connect with me:
 
 [<img align="left" alt="linkedin" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gmail" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/vaibhav-kambli
-[gmail]: `mailto:vaibhavk2608@gmail.com`
+
 
 
 <!--
