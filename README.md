@@ -14,7 +14,7 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/vaibhav-kambli
-[gmail]: vaibhavk2608@gmail.com
+[gmail]: `mailto:vaibhavk2608@gmail.com`
 
 
 <!--
