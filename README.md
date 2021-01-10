@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning and preparing for my cloud practitioner certification from AWS
 - 👯 This year I look forward to collaborate with other developers and contribute to open source projects
+- ⚡ Passionate about building full-stack web applications and interfaces using modern web development frameworks
 
 
 ### Connect with me:
