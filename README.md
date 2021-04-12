@@ -3,7 +3,6 @@
 ### I am a Full Stack Developer! 😊
 
 - 🎉 Learning and evolving one day at a time!
-- 🌱 I’m currently learning and preparing for my cloud practitioner certification from AWS
 - ✨ Proficient with MERN stack
 - 👯 This year I look forward to collaborate with other developers and contribute to open source projects
 - ⚡ Passionate about building full-stack web applications and interfaces using modern web development frameworks
